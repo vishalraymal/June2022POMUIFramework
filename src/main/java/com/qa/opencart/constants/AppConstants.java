@@ -5,8 +5,7 @@ import java.util.List;
 
 public class AppConstants {
 	
-	// Test
-	public static final int DEFAULT_TIME_OUT = 5;
+	public static final int DEFAULT_TIME_OUT = 6;
 	public static final int DEFAULT_LARGE_TIME_OUT = 10;
 	
 
